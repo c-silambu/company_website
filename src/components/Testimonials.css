@@ -1,0 +1,41 @@
+.testimonials {
+  padding: 100px 80px;
+  background: #ffffff;
+  text-align: center;
+}
+
+.testimonials h2 {
+  font-size: 36px;
+  margin-bottom: 50px;
+  color: #0f172a;
+}
+
+.testimonial-cards {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.t-card {
+  width: 300px;
+  padding: 30px;
+  border-radius: 12px;
+  background: #f8fafc;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.t-card p {
+  font-size: 15px;
+  color: #475569;
+  margin-bottom: 20px;
+}
+
+.t-card h4 {
+  color: #0f172a;
+}
+
+.t-card span {
+  font-size: 14px;
+  color: #64748b;
+}
